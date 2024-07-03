@@ -48,7 +48,3 @@ python flappy_bird.py
 ## Credits
 
 This game is inspired by the original Flappy Bird game created by Dong Nguyen.
-
-## License
-
-This project is licensed under the MIT License.
